@@ -1,0 +1,68 @@
+    allspice
+    angelica
+    anise
+    asafoetida
+    bay leaf
+    dry basil
+    bergamot
+    black cumin
+    black mustard
+    black pepper
+    borage
+    burnet
+    caraway
+    cardamom
+    cassia
+    catnip
+    cayenne pepper
+    celery seed
+    chervil
+    chicory
+    chili pepper
+    dry chives
+    cicely
+    dry cilantro
+    cinnamon
+    clove
+    coriander
+    costmary
+    cumin
+    curry
+    dry dill
+    fennel seed
+    fenugreek
+    file
+    powder ginger
+    grains of paradise
+    holy basil
+    horehound
+    hyssop
+    lavender
+    lemon balm
+    powdered lemon grass
+    lemon verbena
+    licorice
+    lovage
+    mace
+    marjoram
+    nutmeg
+    oregano
+    paprika
+    dry parsley
+    peppermint
+    poppy seed
+    rosemary
+    rue
+    saffron
+    dry sage
+    savory
+    sesame seeds
+    sorrel
+    star anise
+    dry spearmint
+    dry tarragon
+    dry thyme
+    dry turmeric
+    vanilla
+    wasabi
+    white mustard

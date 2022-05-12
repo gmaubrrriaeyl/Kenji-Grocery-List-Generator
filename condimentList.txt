@@ -1,0 +1,73 @@
+    Aioli
+    Ajvar
+    Amba
+    Au jus
+    Biber salcasi
+    Caramel
+    Chimichurri
+spread
+    Chrain
+    Chutney
+    Compote
+paste
+preserves
+    Garum
+    Gravy
+    Harissa
+    Honey
+    Horseradish
+    Icing
+    Karo
+ketchup
+    Ljutenica
+chutney 
+    Marmalade
+    Mayonnaise
+    Meringue
+    Mignonette sauce
+    Milkette
+    Miso
+    Monkey gland sauce
+    Muhammara
+    Murri
+        Mostarda
+mustard
+        Turun sinappi
+    Nutritional yeast
+    Oyster sauce
+    Pepper jelly
+    Peanut butter
+    Pesto
+    Piccalilli
+        Pickle
+    Pico
+    Pindur
+    Piri-piri
+relish
+        Kuchela
+    Remoulade
+    Salsa
+    Salt
+    Sambal
+    Skyronnes
+    Sprinkles
+    Sumbala
+    Syrup
+    Tahini
+    Tekka
+sauce
+    Toum
+sesame oil
+chili oil
+mustard oil
+truffle oil
+    Tzatziki
+    Vegenaise
+    Vinegar
+    Watermelon rind preserves
+    Whipped cream
+    White pepper
+    XO sauce
+    Za'atar
+    Zacusca
+    Zhug

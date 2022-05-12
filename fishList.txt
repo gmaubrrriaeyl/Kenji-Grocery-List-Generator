@@ -1,0 +1,89 @@
+    Anchovies
+    Barracuda
+    Basa
+    Bass
+    Black cod
+Sablefish
+    Blowfish
+    Bluefish
+    Bombay duck
+    Bream
+    Brill
+    Butter fish
+    Catfish
+    Cod
+    Dogfish
+    Dorade
+    Eel
+    Flounder
+    Grouper
+    Haddock
+    Hake
+    Halibut
+    Herring
+    Ilish
+    John Dory
+    Lamprey
+    Lingcod
+    Mackerel
+    Mahi Mahi
+    Monkfish
+    Mullet
+    Orange roughy
+    Parrotfish
+    Patagonian toothfish 
+Chilean sea bass
+    Perch
+    Pike
+    Pilchard
+    Pollock
+    Pomfret
+    Pompano
+    Sablefish
+    Salmon
+    Sanddab
+    Sardine
+    Sea bass
+    Shad 
+alewife
+American shad
+    Shark
+    Skate
+    Smelt
+    Snakehead
+    Snapper 
+cod
+    Sole
+    Sprat
+    Sturgeon
+    Surimi
+    Swordfish
+    Tilapia
+    Tilefish
+    Trout
+    Tuna
+    Turbot
+    Wahoo
+    Whitefish
+    Whiting
+    Witch 
+righteye flounder
+    Cockle
+    Cuttlefish
+    Clam
+    Loco
+    Mussel
+    Octopus
+    Oyster
+    Periwinkle
+    Scallop
+    Squid
+    Conch 
+Snails
+    Nautilus
+    Crabs
+    Craw
+Cray Fish
+    Lobsters
+    Shrimps
+Prawns
