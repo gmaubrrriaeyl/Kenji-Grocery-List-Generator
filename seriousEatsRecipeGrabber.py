@@ -212,18 +212,6 @@ for i in ingredientsListItems:
         if isOther==True:
             otherList.append([(str(name.strip()) + ", " + str(qty.strip()) + " " + str(unit.strip())).strip().title()])
             break
-        
-veggieList
-meatList
-fishList
-fruitList
-grainList
-dairyList
-herbList
-condimentList
-spiceList
-dryGoodsList
-otherList
 
 for list in lists:
     if lists[list]:
